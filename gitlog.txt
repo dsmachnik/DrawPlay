@@ -1,26 +1,9 @@
-commit b5a3380c4925c6b841a211ad82f8a4f804dc775c
+commit 7f31a79a7a419d5190d826a5cdda8f1daaa62814
 Author: Daniela Machnik <danielamachnik@csm-wl-dhcp-198-149.mines.edu>
-Date:   Sat Feb 23 15:07:29 2019 -0700
+Date:   Sat Feb 23 15:22:09 2019 -0700
 
-    moved cat's mouth up by 5
+    created text file for git log -> must update and submit to canvas
 
-commit 950d8e6293ee83a385c1c410fd5e881c62eb2480
-Author: Jennifer Phan <jpt4542@gmail.com>
-Date:   Sat Feb 23 15:04:11 2019 -0700
-
-    Changed cat's eye color from green to magenta
-
-commit 7e2db9aad6a25091ecfb0a3835257c0ee1d73cfa
-Author: Daniela Machnik <danielamachnik@csm-wl-dhcp-198-149.mines.edu>
-Date:   Sat Feb 23 14:53:13 2019 -0700
-
-    removed date from README
-
-commit c5280f768cb8e10d92611392301ee7087654575b
-Author: Daniela Machnik <danielamachnik@csm-wl-dhcp-198-149.mines.edu>
-Date:   Sat Feb 23 14:51:16 2019 -0700
-
-    first commit
 commit 2fb34f9e3f729ef72c2b43361e8f3ca620b6c531
 Author: Jennifer Phan <jpt4542@gmail.com>
 Date:   Sat Feb 23 15:19:51 2019 -0700
